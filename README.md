@@ -2,6 +2,7 @@
 
   ## Description
   Allows the user to write down notes and save them. The user can view or delete previously created notes. The notes are stored on a server-side database and the notes are written to the database using express js
+  
   [Deployed Application](https://owlbag-note-taker.herokuapp.com/)
 
   ![license badge](https://img.shields.io/badge/license-The%20Unlicense-green)  
